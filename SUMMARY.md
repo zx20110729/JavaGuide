@@ -7,4 +7,5 @@
         * [原型模式](Java相关/设计模式/Prototype.md)
         * [建造者模式](Java相关/设计模式/Builder.md)
         * [单例模式](Java相关/设计模式/Singlton.md)
+        * [外观模式](Java相关/设计模式/Facade.md)
 
