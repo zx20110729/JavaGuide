@@ -169,3 +169,6 @@ public class Power5VAdapter extends PowerAdapter {
         };
         powerAdapter.output5V();
 ```
+
+##总结
+可以说Source的存在形式决定了适配器的名字，类适配器就是继承Source类，对象适配器就是持有Source类，接口适配器就是实现Source接口。
