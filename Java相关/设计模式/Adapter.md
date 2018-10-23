@@ -91,10 +91,9 @@ PowerAdapter:适配器抽象类
 Power5VAdapter:5V输出适配器类
 ```
 
-```
 DCOutput接口
 
-```java
+``` java
 public interface DCOutput {
     int output5V();
     int output9V();
@@ -102,6 +101,7 @@ public interface DCOutput {
     int output24V();
 }
 ```
+
 PowerAdapter类
 
 ```java
