@@ -12,4 +12,6 @@
         * [03-适配器模式](Java相关/设计模式/Adapter.md)
         * [04-桥接模式](Java相关/设计模式/Bridge.md)
         * [05-过滤器模式](Java相关/设计模式/Filter.md)
+    * [Java集合](Java相关/Java集合/README.md)
+        * [HashMap](Java相关/Java集合/HashMap.md)
 
