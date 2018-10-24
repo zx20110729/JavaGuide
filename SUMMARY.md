@@ -11,4 +11,5 @@
         * [02-代理模式](Java相关/设计模式/Proxy.md)
         * [03-适配器模式](Java相关/设计模式/Adapter.md)
         * [04-桥接模式](Java相关/设计模式/Bridge.md)
+        * [05-过滤器模式](Java相关/设计模式/Filter.md)
 
