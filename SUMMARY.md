@@ -15,4 +15,6 @@
         * [06-组合模式](Java相关/设计模式/Composite.md)
     * [Java集合](Java相关/Java集合/README.md)
         * [HashMap](Java相关/Java集合/HashMap.md)
+    * [数据结构](数据结构/README.md)
+        * [树](数据结构/Tree.md)
 
