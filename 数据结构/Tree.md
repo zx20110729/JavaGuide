@@ -10,7 +10,9 @@
 - - - ---
 ## 红黑树（Red Black Tree）
 [参考链接1](https://www.sohu.com/a/201923614_466939)
-[参考链接2](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+
+[维基百科](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
+
 红黑树是一种自平衡的二叉树，除了具有二叉树的特征外，它还有以下规则：
 1. 节点是红色或黑色
 2. 根结点是黑色
