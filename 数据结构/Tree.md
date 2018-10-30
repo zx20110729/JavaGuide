@@ -25,8 +25,11 @@
  **红黑树基本操作（一） 左旋右旋 **
 红黑树的基本操作是添加、删除。在对红黑树进行添加删除之后都会用到旋转方法，因为在添加、删除操作之后，红黑树的结构发生了变化，可能不满足红黑树的5中特性，也就不是一颗红黑树了。而通过旋转可以让这棵树重新称为红黑树。
 1. 左旋
+
  ![](../resources/structure/left-rotate.jpg)
+
 2. 右旋
+
 ![](../resources/structure/right-rotate.jpg)
 
 **红黑树基本操作（二）添加**
@@ -62,8 +65,11 @@ N：新增的当前节点
   2 |N在G的外部(N是P的右孩子，P是G的右孩子；或者N是P的左孩子，P是G的左孩子) |有G为支点进行右旋，并且P和G进行颜色交换
 
 状况1
+
 ![](../resources/structure/Red-black_tree_insert_case_4_1.png)
+
 状况2
+
 ![](../resources/structure/Red-black_tree_insert_case_4_2.png)
 
 **在上面的算法中除了场景3的处理方式可以重复使用外，其他的算法只能使用1次。**
