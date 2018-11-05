@@ -6,7 +6,7 @@
 Shape、Circle：圆
 ShapeFactory：享元模式类，缓存
 ```
-
+![](../../resources/flyweight.jpg)
 Shape、Circle代码
 ```java
 public interface Shape {
