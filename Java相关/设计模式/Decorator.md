@@ -69,3 +69,13 @@ public class RedShapeDecorator extends ShapeDecorator {
 
 }
 ```
+
+使用
+```java
+        Shape circle = new Circle();
+        Shape rectangle = new Rectangle();
+
+        RedShapeDecorator decorator = new RedShapeDecorator(rectangle);
+        decorator.draw();
+
+```
