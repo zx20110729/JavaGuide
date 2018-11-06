@@ -18,6 +18,7 @@
         * [01-责任链模式](Java相关/设计模式/ChainOfResponsibility.md)
         * [02-命令模式](Java相关/设计模式/Command.md)
         * [03-解释器模式](Java相关/设计模式/Interpreter.md)
+        * [04-迭代器模式](Java相关/设计模式/Iterator.md)
     * [Java集合](Java相关/Java集合/README.md)
         * [HashMap](Java相关/Java集合/HashMap.md)
 * [数据结构](数据结构/README.md)

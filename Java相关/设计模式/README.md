@@ -16,12 +16,26 @@
 原则是尽量使用合成/聚合的方式，而不是使用继承。
 ```
 
-创建模式有如下：
-* [工厂模式](Factory.md)
-* [原型模式](Java相关/设计模式/Prototype.md)
-* [建造者模式](Java相关/设计模式/Builder.md)
-* [单例模式](Java相关/设计模式/Singlton.md)
-结构模式有如下：
+### 创建模式有如下：
+* [01-工厂模式](Factory.md)
+* [02-原型模式](Prototype.md)
+* [03-建造者模式](Builder.md)
+* [04-单例模式](Singlton.md)
+### 结构模式有如下：
+   * [01-外观模式](Facade.md)
+   * [02-代理模式](Proxy.md)
+   * [03-适配器模式](Adapter.md)
+   * [04-桥接模式](Bridge.md)
+   * [05-过滤器模式](Filter.md)
+   * [06-组合模式](Composite.md)
+   * [07-装饰者模式](Decorator.md)
+   * [08-享元模式](Flyweight.md)
+### 行为模式有如下
+   * [01-责任链模式](ChainOfResponsibility.md)
+   * [02-命令模式](Command.md)
+   * [03-解释器模式](Interpreter.md)
+   * [04-迭代器模式](Iterator.md)
+
 
 设计模式之间的关系如下图:
 ![](../../resources/pattern.jpg)
