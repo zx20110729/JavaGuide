@@ -16,6 +16,7 @@
         * [07-装饰者模式](Java相关/设计模式/Decorator.md)
         * [08-享元模式](Java相关/设计模式/Flyweight.md)
         * [01-责任链模式](Java相关/设计模式/ChainOfResponsibility.md)
+        * [02-命令模式](Java相关/设计模式/Command.md)
     * [Java集合](Java相关/Java集合/README.md)
         * [HashMap](Java相关/Java集合/HashMap.md)
 * [数据结构](数据结构/README.md)
