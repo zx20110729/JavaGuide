@@ -22,6 +22,7 @@
         * [05-中介者模式](Java相关/设计模式/Mediator.md)
         * [06-备忘录模式](Java相关/设计模式/Memento.md)
         * [07-观察者模式](Java相关/设计模式/Observer.md)
+        * [08-状态模式](Java相关/设计模式/State.md)
     * [Java集合](Java相关/Java集合/README.md)
         * [HashMap](Java相关/Java集合/HashMap.md)
 * [数据结构](数据结构/README.md)
